@@ -2,7 +2,22 @@
     "100001": {
         "name": "saksham",
         "pin_hash": "b8dc2c143be8994682b08461f46487e05874e59dd9ab65cf973e3a3c67a763aa",
-        "balance": 0,
-        "transactions": []
+        "balance": 119889.0,
+        "transactions": [
+            {
+                "timestamp": "2026-09-13 23:40:17",
+                "type": "DEPOSIT",
+                "amount": 122222.0,
+                "balance_after": 122222.0,
+                "details": "Cash deposited"
+            },
+            {
+                "timestamp": "2026-09-13 23:40:24",
+                "type": "WITHDRAW",
+                "amount": 2333.0,
+                "balance_after": 119889.0,
+                "details": "Cash withdrawn"
+            }
+        ]
     }
 }
